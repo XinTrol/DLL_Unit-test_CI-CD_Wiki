@@ -1,0 +1,11 @@
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\bin\Debug\net8.0\MyLibraryUnit.deps.json
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\bin\Debug\net8.0\MyLibraryUnit.dll
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\bin\Debug\net8.0\MyLibraryUnit.pdb
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\obj\Debug\net8.0\MyLibraryUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\obj\Debug\net8.0\MyLibraryUnit.AssemblyInfoInputs.cache
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\obj\Debug\net8.0\MyLibraryUnit.AssemblyInfo.cs
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\obj\Debug\net8.0\MyLibraryUnit.csproj.CoreCompileInputs.cache
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\obj\Debug\net8.0\MyLibraryUnit.dll
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\obj\Debug\net8.0\refint\MyLibraryUnit.dll
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\obj\Debug\net8.0\MyLibraryUnit.pdb
+C:\Users\egors\OneDrive\Desktop\программирование\C#\MyLibraryUnit\MyLibraryUnit\obj\Debug\net8.0\ref\MyLibraryUnit.dll
